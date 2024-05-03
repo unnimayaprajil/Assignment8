@@ -1,0 +1,16 @@
+/* Author:Unnimaya */
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+    border:0;
+   
+}
+:root{
+    --vh-60:60vh;
+    --vh-40:40vh;
+}
+.banner .row{
+    height :var(--vh-60);
+    color:white;
+}
